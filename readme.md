@@ -1,5 +1,7 @@
 # Automated Tissue Layer Detection in Medical Imaging
 
+This app was built using MATLAB for a school project in the course Digital Image Processing in the university of Antwerp
+
 ## GUI Usage
 - Load image button: Click to open a file browser and then select a dicom image (Only accepts Dicom images, no other formats.)
 - Save image button: Click to save the current processed image in the app as a png.
